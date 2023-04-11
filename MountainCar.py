@@ -111,7 +111,7 @@ if __name__ == "__main__":
         mc = MountainCar(state_num, alpha)
 
         # print results in partial markdown format
-        print(f"\n### Mountain Car with {state_num} states and alpha {alpha}\n")
+        print(f"### Mountain Car with {state_num} states and alpha {alpha}\n")
         print("```")
         mc.run()
         print("```", end="\n\n")

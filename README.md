@@ -2,7 +2,14 @@
 
 Mountain Car MDP from Farama-Foundation/Gymnasium using Q-learning
 
+## Examples
+
 <img width="560" alt="image" src="https://user-images.githubusercontent.com/50134239/231055979-f4a7df3b-a4fa-40ef-ae75-ca717c9330e5.png">
+
+> Screenshot of a test run of `report.sh`
+
+A sample report can be seen in [this file](./MountainCar.md).  
+It has been slightly modified to complete the generic observations.
 
 ## Usage
 
