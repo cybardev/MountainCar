@@ -68,7 +68,7 @@ function report_gen() {
     lb
     echo "**Author**: Sheikh Saad Abdullah"
     lb
-    echo "## Varying states between 5, 10, 20, 100 with fixed alpha of 0.1:"
+    echo "## Varying states between 5, 10, 20, 100 with fixed alpha of 0.1"
     hr
 
     for state in ${states[@]}; do
@@ -78,7 +78,7 @@ function report_gen() {
         observation
     done
 
-    echo "## Varying alpha between 0.01, 0.1, 0.5 with fixed state of 10:"
+    echo "## Varying alpha between 0.01, 0.1, 0.5 with fixed state of 10"
     hr
 
     for alpha in ${alphas[@]}; do
