@@ -2,6 +2,8 @@
 
 Mountain Car MDP from Farama-Foundation/Gymnasium using Q-learning
 
+> This was the final programming assignment for my Artificial Intelligence course at Saint Mary's University.
+
 ## Examples
 
 <img width="560" alt="image" src="https://user-images.githubusercontent.com/50134239/231055979-f4a7df3b-a4fa-40ef-ae75-ca717c9330e5.png">
