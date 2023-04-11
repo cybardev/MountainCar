@@ -2,7 +2,7 @@
 
 **Author**: Sheikh Saad Abdullah
 
-## Varying states between 5, 10, 20, 100 with fixed alpha of 0.1:
+## Varying states between 5, 10, 20, 100 with fixed alpha of 0.1
 
 ---
 
@@ -150,7 +150,7 @@ Too many iterations. Stopping run...
 
 ---
 
-## Varying alpha between 0.01, 0.1, 0.5 with fixed state of 10:
+## Varying alpha between 0.01, 0.1, 0.5 with fixed state of 10
 
 ---
 
